@@ -154,12 +154,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.05.26 Community Agile/О чем.md",
+                "file": "18.05.26_Встреча TD/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "О чем"
+              "title": "Summary"
             }
           }
         ],
@@ -310,10 +310,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "541b851cd1a5c665",
+  "active": "4309433f5b275f45",
   "lastOpenFiles": [
-    "18.05.26_Встреча TD/Summary.md",
     "14.05.26 Community Agile/О чем.md",
+    "18.05.26_Встреча TD/Summary.md",
     "18.05.26_Встреча TD/О чем.md",
     "15.05.26_Retrospective/О чем.md",
     "18.05.26_Встреча TD",
