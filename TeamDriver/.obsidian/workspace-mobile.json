@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15.05.26_Retrospective/Summary.md",
+                "file": "15.05.26_Retrospective/О чем.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "О чем"
             }
           }
         ],
@@ -211,7 +211,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "14.05.26_Community TD/Коротко.md",
+            "file": "15.05.26_Retrospective/О чем.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -269,8 +269,14 @@
   },
   "active": "221121298fb6cd7d",
   "lastOpenFiles": [
-    "15.05.26_Retrospective/О чем?.md",
+    "13.05.26_Встреча TD/О чем.md",
+    "14.05.26_Community TD/О чем?.md",
     "13.05.26_Встреча TD/О чем?.md",
+    "15.05.26_Retrospective/О чем?.md",
+    "15.05.26_Retrospective/О чем.md",
+    "14.05.26_Community TD/Summary.md",
+    "14.05.26_Community TD/О чем.md",
+    "15.05.26_Retrospective/Summary.md",
     "13.05.26 Встреча TD_Груминг, Space, Items/Что было на встрече (коротко).md",
     "14.05.26_Community TD/Коротко.md",
     "14.05.26 Community Agile/Summary_Agile community.md",
@@ -279,10 +285,7 @@
     "13.05.26 Встреча TD_Груминг, Space, Items/Summary.md",
     "13.05.26 Встреча TD_Груминг, Space, Items/AI_Summary.md",
     "13.05.26 Встреча TD_Груминг, Space, Items",
-    "14.05.26_Community TD/О чем?.md",
-    "14.05.26_Community TD/Summary.md",
     "О чем?.md",
-    "15.05.26_Retrospective/Summary.md",
     "13.05.26_Встреча TD",
     "14.05.26_Community Agile",
     "14.05.26_Community Agile/Summary.md",
