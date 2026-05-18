@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/atimoshok/obsidian-vault.git",
+  "gitLocation": "C:\\Users\\timoshok\\Documents\\Obsidian Vault",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
