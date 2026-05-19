@@ -11,10 +11,14 @@
             "id": "55795942531c589f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TeamDriver/DevRel/Открытие сезона 2026/Регламент турнира по стритболу Uniscan 2026 🏀.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Регламент турнира по стритболу Uniscan 2026 🏀"
             }
           }
         ]
@@ -177,7 +181,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -188,8 +191,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "55795942531c589f",
   "lastOpenFiles": [
+    "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png",
+    "TeamDriver/DevRel/Открытие сезона 2026/Регламент турнира по стритболу Uniscan 2026 🏀.md",
+    "TeamDriver/Регламент турнира по стритболу Uniscan 2026 🏀.md",
+    "TeamDriver/DevRel/Открытие сезона 2026",
+    "TeamDriver/DevRel",
+    "TeamDriver/DSM TD/2026/DSM — 2026-05-19_2.md",
+    "TeamDriver/DSM TD/2026/DSM — 2026-05-19_1.md",
+    "TeamDriver/DSM TD/2026",
+    "TeamDriver/DSM TD",
+    "TeamDriver/18.05.26_Встреча TD/О чем.md",
+    "TeamDriver/18.05.26_Встреча TD/Summary.md",
+    "TeamDriver/18.05.26_Встреча TD/Full Transcript.md",
+    "TeamDriver/18.05.26_Встреча TD/AI Summary.md",
+    "TeamDriver/18.05.26_Встреча TD",
+    "TeamDriver/14.05.26 Community Agile/О чем.md",
+    "TeamDriver/15.05.26_Retrospective/О чем.md",
+    "TeamDriver/15.05.26_Retrospective/Summary.md",
+    "TeamDriver/15.05.26_Retrospective",
+    "TeamDriver/14.05.26_Community TD/О чем.md",
+    "TeamDriver/14.05.26_Community TD/Summary.md",
+    "TeamDriver/14.05.26 Community Agile/Summary_Agile community.md",
+    "TeamDriver/14.05.26 Community Agile",
+    "TeamDriver/13.05.26_Встреча TD/О чем.md",
+    "TeamDriver/13.05.26_Встреча TD/Summary.md",
+    "TeamDriver/13.05.26_Встреча TD",
     "TeamDriver/Test git.md"
   ]
 }
