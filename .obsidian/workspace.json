@@ -11,10 +11,14 @@
             "id": "4e661e709dd970da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TeamDriver/Community Agile/14.05.26_Отчет отгрузок, АС, метрики/О чем.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "О чем"
             }
           }
         ]
@@ -189,21 +193,21 @@
   },
   "active": "fff7c5e7222b5489",
   "lastOpenFiles": [
-    "TeamDriver/Meetengis/19.05.26_Встреча TD (Чек-листы)/Full transcript.md",
-    "TeamDriver/Meetengis/19.05.26_Встреча TD (Чек-листы)/Cleaned_transcript.md",
-    "TeamDriver/Community Agile/14.05.26 Community Agile/О чем.md",
-    "TeamDriver/Meetengis/19.05.26_Встреча TD (Чек-листы)/Summary.md",
-    "TeamDriver/Meetengis/19.05.26_Встреча TD (Чек-листы)",
-    "TeamDriver/Community TD/14.05.26_Community TD (каноничный Scrum)/О чем.md",
-    "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)/О чем.md",
-    "TeamDriver/Meetengis/13.05.26_Встреча TD (Груминг, Space, DevRel)/О чем.md",
-    "TeamDriver/Retrospective/15.05.26_Retrospective (Синхро-встреча с ОВ)/Summary.md",
-    "TeamDriver/Meetengis",
+    "TeamDriver/Meetengis TD/19.05.26_Чек-листы/Summary.md",
+    "TeamDriver/Meetengis TD/19.05.26_Чек-листы/Full transcript.md",
+    "TeamDriver/Meetengis TD/19.05.26_Чек-листы/Cleaned_transcript.md",
+    "TeamDriver/Community Agile/14.05.26_Отчет отгрузок, АС, метрики/О чем.md",
+    "TeamDriver/Meetengis TD/19.05.26_Чек-листы",
+    "TeamDriver/Community TD/14.05.26_Каноничный Scrum/О чем.md",
+    "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро/О чем.md",
+    "TeamDriver/Meetengis TD/13.05.26_Груминг, Space, DevRel/О чем.md",
+    "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/Summary.md",
+    "TeamDriver/Meetengis TD",
     "TeamDriver/Community Agile",
     "TeamDriver/Community TD",
     "TeamDriver/Retrospective",
-    "TeamDriver/Retrospective/15.05.26_Retrospective (Синхро-встреча с ОВ)/15.05.26_Retro_RedTeam.jpg",
-    "TeamDriver/Retrospective/15.05.26_Retrospective (Синхро-встреча с ОВ)/О чем.md",
+    "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
+    "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/О чем.md",
     "TeamDriver/DevRel/Открытие сезона 2026/Регламент турнира по стритболу Uniscan 2026 🏀.md",
     "TeamDriver/Регламент турнира по стритболу Uniscan 2026 🏀.md",
     "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png",
@@ -213,13 +217,13 @@
     "TeamDriver/DSM TD/2026/DSM — 2026-05-19_1.md",
     "TeamDriver/DSM TD/2026",
     "TeamDriver/DSM TD",
-    "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)/Summary.md",
-    "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)/Full Transcript.md",
-    "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)/AI Summary.md",
-    "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)",
-    "TeamDriver/Community TD/14.05.26_Community TD (каноничный Scrum)/Summary.md",
-    "TeamDriver/Community Agile/14.05.26 Community Agile/Summary_Agile community.md",
-    "TeamDriver/Meetengis/13.05.26_Встреча TD (Груминг, Space, DevRel)/Summary.md",
+    "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро/Summary.md",
+    "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро/Full Transcript.md",
+    "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро/AI Summary.md",
+    "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро",
+    "TeamDriver/Community TD/14.05.26_Каноничный Scrum/Summary.md",
+    "TeamDriver/Community Agile/14.05.26_Отчет отгрузок, АС, метрики/Summary_Agile community.md",
+    "TeamDriver/Meetengis TD/13.05.26_Груминг, Space, DevRel/Summary.md",
     "TeamDriver/Test git.md"
   ]
 }
