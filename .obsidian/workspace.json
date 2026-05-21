@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Community Agile/14.05.26 Community Agile/О чем.md",
+                "file": "TeamDriver/Meetengis/19.05.26_Встреча TD_Чек-листы/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "О чем"
+              "title": "Summary"
             }
           }
         ]
@@ -191,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80092dcbc227a0b4",
+  "active": "fff7c5e7222b5489",
   "lastOpenFiles": [
-    "TeamDriver/19.05.26_Встреча TD_Чек-листы/Summary.md",
-    "TeamDriver/19.05.26_Встреча TD_Чек-листы/Full transcript.md",
-    "TeamDriver/19.05.26_Встреча TD_Чек-листы/Cleaned_transcript.md",
-    "TeamDriver/19.05.26_Встреча TD_Чек-листы",
+    "TeamDriver/Meetengis/19.05.26_Встреча TD_Чек-листы/Full transcript.md",
+    "TeamDriver/Meetengis/19.05.26_Встреча TD_Чек-листы/Cleaned_transcript.md",
+    "TeamDriver/Community Agile/14.05.26 Community Agile/О чем.md",
+    "TeamDriver/Meetengis/19.05.26_Встреча TD_Чек-листы/Summary.md",
+    "TeamDriver/Meetengis/19.05.26_Встреча TD_Чек-листы",
     "TeamDriver/Community TD/14.05.26_Community TD (каноничный Scrum)/О чем.md",
     "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)/О чем.md",
     "TeamDriver/Meetengis/13.05.26_Встреча TD (Груминг, Space, DevRel)/О чем.md",
@@ -220,7 +221,6 @@
     "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)/Full Transcript.md",
     "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)/AI Summary.md",
     "TeamDriver/Meetengis/18.05.26_Встреча TD (DevRel, итоги Ретро)",
-    "TeamDriver/Community Agile/14.05.26 Community Agile/О чем.md",
     "TeamDriver/Community TD/14.05.26_Community TD (каноничный Scrum)/Summary.md",
     "TeamDriver/Community Agile/14.05.26 Community Agile/Summary_Agile community.md",
     "TeamDriver/Meetengis/13.05.26_Встреча TD (Груминг, Space, DevRel)/Summary.md",
