@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Community Agile/14.05.26_Отчет отгрузок, АС, метрики/О чем.md",
+                "file": "TeamDriver/DSM TD/2026/DSM — 2026-05-19_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "О чем"
+              "title": "DSM — 2026-05-19_1"
             }
           }
         ]
@@ -191,12 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "4e661e709dd970da",
   "lastOpenFiles": [
+    "TeamDriver/DSM TD/2026/DSM — 2026-05-19_2.md",
+    "TeamDriver/DSM TD/2026/DSM — 2026-05-19_1.md",
+    "TeamDriver/Community Agile/14.05.26_Отчет отгрузок, АС, метрики/О чем.md",
     "TeamDriver/Meetengis TD/19.05.26_Чек-листы/Summary.md",
     "TeamDriver/Meetengis TD/19.05.26_Чек-листы/Full transcript.md",
     "TeamDriver/Meetengis TD/19.05.26_Чек-листы/Cleaned_transcript.md",
-    "TeamDriver/Community Agile/14.05.26_Отчет отгрузок, АС, метрики/О чем.md",
     "TeamDriver/Meetengis TD/19.05.26_Чек-листы",
     "TeamDriver/Community TD/14.05.26_Каноничный Scrum/О чем.md",
     "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро/О чем.md",
@@ -213,8 +215,6 @@
     "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png",
     "TeamDriver/DevRel/Открытие сезона 2026",
     "TeamDriver/DevRel",
-    "TeamDriver/DSM TD/2026/DSM — 2026-05-19_2.md",
-    "TeamDriver/DSM TD/2026/DSM — 2026-05-19_1.md",
     "TeamDriver/DSM TD/2026",
     "TeamDriver/DSM TD",
     "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро/Summary.md",
