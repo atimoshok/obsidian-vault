@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community TD/21.05.26_Работа с Игорем Стрекаловским.md",
+                "file": "Шаблон карточки сотрудника.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21.05.26_Работа с Игорем Стрекаловским"
+              "title": "Шаблон карточки сотрудника"
             }
           }
         ],
@@ -199,6 +199,8 @@
   },
   "active": "b12628e07fb25e07",
   "lastOpenFiles": [
+    "Шаблон карточки сотрудника.md",
+    "Teammates",
     "Community TD/21.05.26_Взбадривание фреймворка.md",
     "Community TD/21.05.26_Работа с Игорем Стрекаловским.md",
     "DSM TD/2026/DSM — 2026-05-19.md",
@@ -206,7 +208,6 @@
     "Full transcript.md",
     "DSM TD/2026/DSM — 2026-05-19_2.md",
     "DSM TD/2026/DSM — 2026-05-19_1.md",
-    "Без названия",
     "18.05.26_Встреча TD/AI Summary.md",
     "19.05.26_Встреча TD_Чек-листы/Summary.md",
     "18.05.26_Встреча TD/Full Transcript.md",
@@ -233,7 +234,6 @@
     "15.05.26_Retrospective/О чем.md",
     "15.05.26_Retrospective",
     "15.05.26_Retrospective_Синхро с ОВ/О чем.md",
-    "18.05.26_DevRel и итоги Retro/Summary.md",
-    "13.05.26_Груминг и Space/О чем.md"
+    "18.05.26_DevRel и итоги Retro/Summary.md"
   ]
 }
