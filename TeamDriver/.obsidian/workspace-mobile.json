@@ -104,9 +104,37 @@
               "icon": "lucide-file",
               "title": "!Профиль взаимодействия сотрудника 1"
             }
+          },
+          {
+            "id": "0e83a0c8aaf64d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retrospective/29.05.26_/Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary"
+            }
+          },
+          {
+            "id": "35e2b6994bab628d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retrospective/29.05.26_/AI_Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI_Summary"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -253,15 +281,19 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f6a3f21dce0aa4c2",
+  "active": "541b851cd1a5c665",
   "lastOpenFiles": [
+    "Retrospective/29.05.26_/Summary.md",
+    "Retrospective/29.05.26_/AI_Summary.md",
+    "Retrospective/29.05.26_/IMG_1363.jpeg",
+    "Без названия",
+    "Teammates/Игорь/!Профиль взаимодействия сотрудника 1.md",
     "Teammates/Игорь/25.05.26_Full Transcript 1.md",
     "Teammates/Шаблон карточки сотрудника.md",
     "Teammates/Игорь/25.05.26_Cleaned Transcript 1.md",
     "Teammates/Игорь С./25.05.26_Cleaned Transcript.md",
     "Teammates/Игорь/25.05.26_Беседа в столовой 1.md",
     "Teammates/Игорь С./25.05.26_Беседа в столовой.md",
-    "Teammates/Игорь/!Профиль взаимодействия сотрудника 1.md",
     "Community TD/28.05.26_Ретроспективы/Summary.md",
     "Teammates/Игорь",
     "Community TD/28.05.26_Ретроспективы/Full Transcript.md",
@@ -283,13 +315,9 @@
     "18.05.26_Встреча TD/AI Summary.md",
     "19.05.26_Встреча TD_Чек-листы/Summary.md",
     "18.05.26_Встреча TD/Full Transcript.md",
-    "DevRel/Открытие сезона 2026/Регламент турнира по стритболу Uniscan 2026 🏀.md",
-    "19.05.26_Встреча TD_Чек-листы/Cleaned_transcript.md",
-    "19.05.26_Встреча TD_Чек-листы/Full transcript.md",
     "19.05.26_Встреча TD_Чек-листы",
     "DevRel/Открытие сезона 2026",
     "DevRel",
-    "DSM TD/2026",
-    "DSM TD"
+    "DSM TD/2026"
   ]
 }
