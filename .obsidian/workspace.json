@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2dd88ffe5ec63a",
+        "id": "32e13a0eee823723",
         "type": "tabs",
         "children": [
           {
-            "id": "4e661e709dd970da",
+            "id": "294bc2649a06ba3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Community TD/28.05.26_Про ретроспективы/Summary.md",
+                "file": "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,10 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "294bc2649a06ba3d",
   "lastOpenFiles": [
-    "TeamDriver/Community TD/21.05.26_2_Взбадривание фреймворка.md",
+    "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
+    "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full_transcript_light_cleanup_v2.md",
+    "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full transcript.md",
+    "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)",
+    "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/AI_Summary.md",
+    "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/Summary.md",
+    "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/IMG_1363.jpeg",
     "TeamDriver/Community TD/28.05.26_Про ретроспективы/Summary.md",
+    "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ",
+    "TeamDriver/Community TD/21.05.26_2_Взбадривание фреймворка.md",
     "TeamDriver/Шаблон карточки сотрудника.md",
     "TeamDriver/Teammates/Шаблон карточки сотрудника.md",
     "TeamDriver/Teammates/Игорь/25.05.26_Беседа в столовой 1.md",
@@ -222,14 +230,7 @@
     "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/Summary.md",
     "TeamDriver/Meetengis TD",
     "TeamDriver/Community Agile",
-    "TeamDriver/Community TD",
-    "TeamDriver/Retrospective",
     "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
-    "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/О чем.md",
-    "TeamDriver/DevRel/Открытие сезона 2026/Регламент турнира по стритболу Uniscan 2026 🏀.md",
-    "TeamDriver/Регламент турнира по стритболу Uniscan 2026 🏀.md",
-    "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png",
-    "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро/Summary.md",
-    "TeamDriver/Meetengis TD/18.05.26_DevRel, итоги Ретро/Full Transcript.md"
+    "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png"
   ]
 }
