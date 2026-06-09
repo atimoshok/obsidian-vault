@@ -8,161 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9971b915d5d2852b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSM TD/2026/DSM — 2026-05-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DSM — 2026-05-22"
-            }
-          },
-          {
-            "id": "ff3e757cab07d0b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Community TD/21.05.26_Работа с Игорем Стрекаловским.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21.05.26_Работа с Игорем Стрекаловским"
-            }
-          },
-          {
-            "id": "a75c025f065f820b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шаблон карточки сотрудника.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Шаблон карточки сотрудника"
-            }
-          },
-          {
-            "id": "6f7f698950d23c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Community TD/21.05.26_1_Работа с Игорем Стрекаловским.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21.05.26_1_Работа с Игорем Стрекаловским"
-            }
-          },
-          {
-            "id": "2aeed44a8a03060c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teammates/Игорь С./25.05.26_Беседа в столовой.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25.05.26_Беседа в столовой"
-            }
-          },
-          {
-            "id": "a3678ab974b604c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Community TD/28.05.26_Ретроспективы/Full Transcript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Full Transcript"
-            }
-          },
-          {
-            "id": "f6a3f21dce0aa4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teammates/Игорь/!Профиль взаимодействия сотрудника 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!Профиль взаимодействия сотрудника 1"
-            }
-          },
-          {
-            "id": "0e83a0c8aaf64d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retrospective/29.05.26_/Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
-            }
-          },
-          {
-            "id": "35e2b6994bab628d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retrospective/29.05.26_/AI_Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI_Summary"
-            }
-          },
-          {
-            "id": "5b1ed95ecf60b5a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full_transcript_light_cleanup_v2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Full_transcript_light_cleanup_v2"
-            }
-          },
-          {
             "id": "99cfe619c7251441",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
+                "file": "Teammates/Алина/ОС по логированию времени.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "ОС по логированию времени"
+            }
+          },
+          {
+            "id": "f85f426a01369571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teammates/Алина/ОС по логированию времени.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОС по логированию времени"
+            }
+          },
+          {
+            "id": "c2aef1c676450977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teammates/Алина/09.06.26_ОС по логированию времени/Рефлексия после разговора.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рефлексия после разговора"
+            }
+          },
+          {
+            "id": "0c4dfe1f4992137f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teammates/Алина/ОС по логированию времени.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОС по логированию времени"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full_transcript_light_cleanup_v2.md",
+            "file": "Teammates/Алина/09.06.26_ОС по логированию времени/Рефлексия после разговора.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -309,10 +211,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "541b851cd1a5c665",
+  "active": "0c4dfe1f4992137f",
   "lastOpenFiles": [
+    "Teammates/Алина/09.06.26_ОС по логированию времени/ОС от Саши мне.md",
+    "Teammates/Алина/09.06.26_ОС по логированию времени/Рефлексия после разговора.md",
+    "Teammates/Алина/ОС по логированию времени.md",
+    "Teammates/Алина/09.06.26_ОС по логированию времени/Транскрипция беседы.md",
+    "Teammates/Алина/09.06.26_ОС по логированию времени",
     "Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full_transcript_light_cleanup_v2.md",
     "Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
+    "Teammates/Игорь/!Профиль взаимодействия сотрудника.md",
+    "Teammates/Алина",
+    "Retrospective/29.05.26_Проблемы с ГОЗ/AI_Summary.md",
+    "Retrospective/29.05.26_Проблемы с ГОЗ/IMG_1363.jpeg",
+    "Retrospective/29.05.26_Проблемы с ГОЗ/Summary.md",
+    "Retrospective/29.05.26_Проблемы с ГОЗ",
     "Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full transcript.md",
     "Retrospective/29.05.26_/AI_Summary.md",
     "Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)",
@@ -337,16 +250,6 @@
     "Teammates/Игорь С.",
     "Teammates",
     "Community TD/21.05.26_Взбадривание фреймворка.md",
-    "Community TD/21.05.26_Работа с Игорем Стрекаловским.md",
-    "DSM TD/2026/DSM — 2026-05-19.md",
-    "DSM TD/2026/DSM — 2026-05-22.md",
-    "DSM TD/2026/DSM — 2026-05-19_2.md",
-    "DSM TD/2026/DSM — 2026-05-19_1.md",
-    "18.05.26_Встреча TD/AI Summary.md",
-    "19.05.26_Встреча TD_Чек-листы/Summary.md",
-    "19.05.26_Встреча TD_Чек-листы",
-    "DevRel/Открытие сезона 2026",
-    "DevRel",
-    "DSM TD/2026"
+    "19.05.26_Встреча TD_Чек-листы"
   ]
 }
