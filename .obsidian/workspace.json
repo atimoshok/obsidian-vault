@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Разработка чек-листа вовлеченности сотрудника"
             }
+          },
+          {
+            "id": "72b5d66f47deb416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TeamDriver/Подготовка обучения по фреймворку.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Подготовка обучения по фреймворку"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,11 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "72b5d66f47deb416",
   "lastOpenFiles": [
+    "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
+    "TeamDriver/Подготовка обучения по фреймворку.md",
     "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
     "TeamDriver/Community TD/21.05.26_1_Работа с Игорем Стрекаловским.md",
-    "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
     "TeamDriver/DSM TD/2026/DSM — 2026-06-10 (про обучение фреймворку).md",
     "TeamDriver/Teammates/Алина/09.06.26_ОС по логированию времени/План ОС по логированию времени.md",
     "TeamDriver/Teammates/Алина/09.06.26_ОС по логированию времени/Транскрипция беседы с Алиной.md",
@@ -255,7 +270,6 @@
     "TeamDriver/Teammates/Игорь/25.05.26_Full Transcript 1.md",
     "TeamDriver/Teammates/Игорь/25.05.26_Cleaned Transcript 1.md",
     "TeamDriver/Teammates/Игорь",
-    "TeamDriver/Community TD/28.05.26_Про ретроспективы/Full Transcript.md",
     "TeamDriver/Community TD/28.05.26_Про ретроспективы",
     "TeamDriver/Teammates/Без названия",
     "TeamDriver/Teammates",
