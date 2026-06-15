@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
+                "file": "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Разработка чек-листа вовлеченности сотрудника"
+              "title": "11.06.26_Взаимодействие с ГОЗ"
             }
           }
         ],
@@ -234,10 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "72b5d66f47deb416",
   "lastOpenFiles": [
-    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
     "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
+    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
     "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
     "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ",
     "TeamDriver/Подготовка обучения по фреймворку.md",
