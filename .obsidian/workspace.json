@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Подготовка обучения по фреймворку.md",
+                "file": "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подготовка обучения по фреймворку"
+              "title": "Разработка чек-листа вовлеченности сотрудника"
             }
           }
         ],
@@ -234,9 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72b5d66f47deb416",
+  "active": "fff7c5e7222b5489",
   "lastOpenFiles": [
+    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
     "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
+    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
+    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ",
     "TeamDriver/Подготовка обучения по фреймворку.md",
     "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
     "TeamDriver/Community TD/21.05.26_1_Работа с Игорем Стрекаловским.md",
@@ -267,12 +270,9 @@
     "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ",
     "TeamDriver/Community TD/21.05.26_2_Взбадривание фреймворка.md",
     "TeamDriver/Шаблон карточки сотрудника.md",
-    "TeamDriver/Teammates/Игорь/25.05.26_Full Transcript 1.md",
-    "TeamDriver/Teammates/Игорь/25.05.26_Cleaned Transcript 1.md",
     "TeamDriver/Teammates/Игорь",
     "TeamDriver/Community TD/28.05.26_Про ретроспективы",
     "TeamDriver/Teammates/Без названия",
-    "TeamDriver/Teammates",
     "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
     "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png"
   ]
