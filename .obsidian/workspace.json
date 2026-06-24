@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
+                "file": "TeamDriver/Обучение фреймворку/Подготовка обучения по фреймворку.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.06.26_Взаимодействие с ГОЗ"
+              "title": "Подготовка обучения по фреймворку"
+            }
+          },
+          {
+            "id": "e75150240eed7658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TeamDriver/Обучение фреймворку/ОС по обучению.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОС по обучению"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,13 +248,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72b5d66f47deb416",
+  "active": "e75150240eed7658",
   "lastOpenFiles": [
+    "TeamDriver/Обучение фреймворку/Подготовка обучения по фреймворку.md",
+    "TeamDriver/Обучение фреймворку/Обучение Ч2.pdf",
+    "TeamDriver/Обучение фреймворку/ОС по обучению.md",
+    "TeamDriver/Обучение фреймворку/Обучение Ч1.pdf",
+    "TeamDriver/Обучение фреймворку/Обучение Ч.1 1.docx",
+    "TeamDriver/Обучение фреймворку/Обучение Ч.2.pptx",
+    "TeamDriver/Обучение фреймворку/Обучение Ч.2.docx",
+    "TeamDriver/Обучение фреймворку/Обучение Ч.1.pptx",
+    "TeamDriver/Обучение фреймворку/Обучение Ч.1.docx",
+    "TeamDriver/Обучение фреймворку",
+    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
     "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
-    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
-    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
     "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ",
-    "TeamDriver/Подготовка обучения по фреймворку.md",
     "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
     "TeamDriver/Community TD/21.05.26_1_Работа с Игорем Стрекаловским.md",
     "TeamDriver/DSM TD/2026/DSM — 2026-06-10 (про обучение фреймворку).md",
@@ -252,27 +274,18 @@
     "TeamDriver/Teammates/Алина/09.06.26_ОС по логированию времени",
     "TeamDriver/Teammates/Игорь/25.05.26_Беседа в столовой 1.md",
     "TeamDriver/Teammates/Шаблон карточки сотрудника.md",
-    "TeamDriver/Teammates/Алина",
     "TeamDriver/Teammates 1/Игорь/25.05.26_Беседа в столовой 1.md",
     "TeamDriver/Teammates 1/Игорь/25.05.26_Full Transcript 1.md",
     "TeamDriver/Teammates 1/Игорь/25.05.26_Cleaned Transcript 1.md",
     "TeamDriver/Teammates 1/Игорь/!Профиль взаимодействия сотрудника 1.md",
     "TeamDriver/Teammates 1/Шаблон карточки сотрудника.md",
-    "TeamDriver/Teammates 1/Игорь",
-    "TeamDriver/Teammates 1",
     "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full_transcript_light_cleanup_v2.md",
     "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full transcript.md",
-    "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)",
     "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/AI_Summary.md",
     "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/Summary.md",
     "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/IMG_1363.jpeg",
     "TeamDriver/Community TD/28.05.26_Про ретроспективы/Summary.md",
-    "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ",
     "TeamDriver/Community TD/21.05.26_2_Взбадривание фреймворка.md",
-    "TeamDriver/Шаблон карточки сотрудника.md",
-    "TeamDriver/Teammates/Игорь",
-    "TeamDriver/Community TD/28.05.26_Про ретроспективы",
-    "TeamDriver/Teammates/Без названия",
     "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
     "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png"
   ]
