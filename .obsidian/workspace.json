@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Обучение фреймворку/ОС по обучению.md",
+                "file": "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ОС по обучению"
+              "title": "Summary"
             }
           }
         ],
@@ -248,13 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "e75150240eed7658",
   "lastOpenFiles": [
+    "TeamDriver/Обучение фреймворку/ОС по обучению.md",
+    "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Summary.md",
     "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Сводка_по_доске_проектов_за_месяц.pdf",
     "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет",
     "TeamDriver/Обучение фреймворку/Подготовка обучения по фреймворку.md",
     "TeamDriver/Обучение фреймворку/Обучение Ч2.pdf",
-    "TeamDriver/Обучение фреймворку/ОС по обучению.md",
     "TeamDriver/Обучение фреймворку/Обучение Ч1.pdf",
     "TeamDriver/Обучение фреймворку/Обучение Ч.1 1.docx",
     "TeamDriver/Обучение фреймворку/Обучение Ч.2.pptx",
@@ -264,7 +265,6 @@
     "TeamDriver/Обучение фреймворку",
     "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
     "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
-    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ",
     "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
     "TeamDriver/Community TD/21.05.26_1_Работа с Игорем Стрекаловским.md",
     "TeamDriver/DSM TD/2026/DSM — 2026-06-10 (про обучение фреймворку).md",
