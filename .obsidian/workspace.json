@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОС от команды.md",
+                "file": "TeamDriver/ОС от команды.md",
                 "mode": "source",
                 "source": false
               },
@@ -262,10 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80092dcbc227a0b4",
+  "active": "fff7c5e7222b5489",
   "lastOpenFiles": [
     "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Summary.md",
-    "ОС от команды.md",
+    "TeamDriver/ОС от команды.md",
     "TeamDriver/Обучение фреймворку/ОС по обучению.md",
     "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Сводка_по_доске_проектов_за_месяц.pdf",
     "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет",
