@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Summary"
             }
+          },
+          {
+            "id": "abeaddf0902b1f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ОС от команды.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОС от команды"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,10 +262,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e75150240eed7658",
+  "active": "80092dcbc227a0b4",
   "lastOpenFiles": [
-    "TeamDriver/Обучение фреймворку/ОС по обучению.md",
     "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Summary.md",
+    "ОС от команды.md",
+    "TeamDriver/Обучение фреймворку/ОС по обучению.md",
     "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Сводка_по_доске_проектов_за_месяц.pdf",
     "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет",
     "TeamDriver/Обучение фреймворку/Подготовка обучения по фреймворку.md",
@@ -286,7 +301,6 @@
     "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/Summary.md",
     "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/IMG_1363.jpeg",
     "TeamDriver/Community TD/28.05.26_Про ретроспективы/Summary.md",
-    "TeamDriver/Community TD/21.05.26_2_Взбадривание фреймворка.md",
     "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
     "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png"
   ]
