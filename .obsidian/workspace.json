@@ -13,86 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Teammates/Игорь/!Профиль взаимодействия сотрудника.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!Профиль взаимодействия сотрудника"
-            }
-          },
-          {
-            "id": "5e6abfae3c1804fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
+                "file": "TeamDriver/Community TD/26.06.18_Подготовка обучения фреймворку/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Summary"
-            }
-          },
-          {
-            "id": "d445133a1c314f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разработка чек-листа вовлеченности сотрудника"
-            }
-          },
-          {
-            "id": "72b5d66f47deb416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TeamDriver/Обучение фреймворку/Подготовка обучения по фреймворку.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Подготовка обучения по фреймворку"
-            }
-          },
-          {
-            "id": "e75150240eed7658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
-            }
-          },
-          {
-            "id": "abeaddf0902b1f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TeamDriver/ОС от команды.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ОС от команды"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,13 +191,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "294bc2649a06ba3d",
   "lastOpenFiles": [
-    "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Summary.md",
+    "TeamDriver/Community TD/26.06.25_Анализ ОС от команды/Summary.md",
+    "TeamDriver/Обучение фреймворку/Подготовка Ч2.md",
+    "TeamDriver/Обучение фреймворку/Подготовка Ч1.md",
+    "TeamDriver/Community TD/26.06.18_Подготовка обучения фреймворку/Summary.md",
+    "TeamDriver/Community TD/26.06.18_Подготовка обучения фреймворку",
+    "TeamDriver/Teammates/Игорь/!Профиль взаимодействия сотрудника.md",
+    "TeamDriver/Community TD/26.06.25_Анализ ОС от команды/Full transcript.md",
+    "TeamDriver/Community TD/26.06.25_Анализ ОС от команды",
     "TeamDriver/ОС от команды.md",
+    "TeamDriver/Community Agile/26.06.18_Ежемесячный отчет/Summary.md",
     "TeamDriver/Обучение фреймворку/ОС по обучению.md",
-    "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет/Сводка_по_доске_проектов_за_месяц.pdf",
-    "TeamDriver/Community Agile/18.06.26_Ежемесячный отчет",
+    "TeamDriver/Community Agile/26.06.18_Ежемесячный отчет/Сводка_по_доске_проектов_за_месяц.pdf",
+    "TeamDriver/Community Agile/26.06.18_Ежемесячный отчет",
     "TeamDriver/Обучение фреймворку/Подготовка обучения по фреймворку.md",
     "TeamDriver/Обучение фреймворку/Обучение Ч2.pdf",
     "TeamDriver/Обучение фреймворку/Обучение Ч1.pdf",
@@ -276,32 +213,24 @@
     "TeamDriver/Обучение фреймворку/Обучение Ч.2.pptx",
     "TeamDriver/Обучение фреймворку/Обучение Ч.2.docx",
     "TeamDriver/Обучение фреймворку/Обучение Ч.1.pptx",
-    "TeamDriver/Обучение фреймворку/Обучение Ч.1.docx",
-    "TeamDriver/Обучение фреймворку",
-    "TeamDriver/Retrospective/11.06.26_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
+    "TeamDriver/Retrospective/26.06.11_Взаимодействие с ГОЗ/11.06.26_Взаимодействие с ГОЗ.md",
     "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
-    "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
-    "TeamDriver/Community TD/21.05.26_1_Работа с Игорем Стрекаловским.md",
+    "TeamDriver/Community TD/26.06.04_Работа в команде (Игорь, Шамов, Алина)/Summary.md",
+    "TeamDriver/Community TD/26.05.21_1_Работа с Игорем Стрекаловским.md",
     "TeamDriver/DSM TD/2026/DSM — 2026-06-10 (про обучение фреймворку).md",
-    "TeamDriver/Teammates/Алина/09.06.26_ОС по логированию времени/План ОС по логированию времени.md",
-    "TeamDriver/Teammates/Алина/09.06.26_ОС по логированию времени/Транскрипция беседы с Алиной.md",
-    "TeamDriver/Teammates/Игорь/!Профиль взаимодействия сотрудника.md",
-    "TeamDriver/Teammates/Алина/09.06.26_ОС по логированию времени/Рефлексия после разговора.md",
-    "TeamDriver/Teammates/Алина/09.06.26_ОС по логированию времени/ОС от Саши мне.md",
-    "TeamDriver/Teammates/Игорь/25.05.26_Беседа в столовой 1.md",
+    "TeamDriver/Teammates/Алина/26.06.09_ОС по логированию времени/План ОС по логированию времени.md",
+    "TeamDriver/Teammates/Алина/26.06.09_ОС по логированию времени/Транскрипция беседы с Алиной.md",
+    "TeamDriver/Teammates/Алина/26.06.09_ОС по логированию времени/Рефлексия после разговора.md",
+    "TeamDriver/Teammates/Алина/26.06.09_ОС по логированию времени/ОС от Саши мне.md",
+    "TeamDriver/Teammates/Игорь/26.05.25_Беседа в столовой 1.md",
     "TeamDriver/Teammates/Шаблон карточки сотрудника.md",
     "TeamDriver/Teammates 1/Игорь/25.05.26_Беседа в столовой 1.md",
     "TeamDriver/Teammates 1/Игорь/25.05.26_Full Transcript 1.md",
     "TeamDriver/Teammates 1/Игорь/25.05.26_Cleaned Transcript 1.md",
     "TeamDriver/Teammates 1/Игорь/!Профиль взаимодействия сотрудника 1.md",
     "TeamDriver/Teammates 1/Шаблон карточки сотрудника.md",
-    "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full_transcript_light_cleanup_v2.md",
-    "TeamDriver/Community TD/04.06.26_Работа в команде (Игорь, Шамов, Алина)/Full transcript.md",
-    "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/AI_Summary.md",
-    "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/Summary.md",
-    "TeamDriver/Retrospective/29.05.26_Проблемы с ГОЗ/IMG_1363.jpeg",
-    "TeamDriver/Community TD/28.05.26_Про ретроспективы/Summary.md",
-    "TeamDriver/Retrospective/15.05.26_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
+    "TeamDriver/Retrospective/26.05.29_Проблемы с ГОЗ/IMG_1363.jpeg",
+    "TeamDriver/Retrospective/26.05.15_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
     "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png"
   ]
 }
