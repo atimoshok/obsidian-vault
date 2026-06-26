@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Xml по проекту 22377 ФР-трескается защитное стекло ИК подсветки.md",
+                "file": "TeamDriver/Проект 22377 Трескается защитное стекло ИК подсветки ФР.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xml по проекту 22377 ФР-трескается защитное стекло ИК подсветки"
+              "title": "Проект 22377 Трескается защитное стекло ИК подсветки ФР"
             }
           }
         ],
@@ -248,10 +248,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "5dd463ac1508c82c",
   "lastOpenFiles": [
-    "TeamDriver/xml по трещинам ФР.md",
     "TeamDriver/Xml по проекту 22377 ФР-трескается защитное стекло ИК подсветки.md",
+    "TeamDriver/Проект 22377 Трескается защитное стекло ИК подсветки ФР.md",
+    "TeamDriver/xml по трещинам ФР.md",
     "TeamDriver/xml по проекту треск стекол.md",
     "TeamDriver/Анкета по завершении проекта.md",
     "TeamDriver/ОС от команды.md",
@@ -285,7 +286,6 @@
     "TeamDriver/Teammates/Алина/26.06.09_ОС по логированию времени/Транскрипция беседы с Алиной.md",
     "TeamDriver/Teammates/Алина/26.06.09_ОС по логированию времени/Рефлексия после разговора.md",
     "TeamDriver/Teammates/Алина/26.06.09_ОС по логированию времени/ОС от Саши мне.md",
-    "TeamDriver/Teammates/Игорь/26.05.25_Беседа в столовой 1.md",
     "TeamDriver/Retrospective/26.05.29_Проблемы с ГОЗ/IMG_1363.jpeg",
     "TeamDriver/Retrospective/26.05.15_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
     "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png"
