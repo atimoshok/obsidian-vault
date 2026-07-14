@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
+                "file": "TeamDriver/Проект вовлеченность сотрудников/Разработка чек-листа вовлеченности сотрудника.md",
                 "mode": "source",
                 "source": false
               },
@@ -206,8 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08dfbd59b395595c",
+  "active": "fff7c5e7222b5489",
   "lastOpenFiles": [
+    "TeamDriver/Проект вовлеченность сотрудников/Описание проекта.md",
+    "TeamDriver/Проект вовлеченность сотрудников",
+    "TeamDriver/Retrospective/26.07.10_Командные договорённости/Транскрипция.md",
     "TeamDriver/Community TD/26.07.02_Опрос метрики и подготовка ретроспективы/На Wiki.md",
     "TeamDriver/Обучение фреймворку/09.07.26_Транскрипция обучения (новое 1).md",
     "TeamDriver/Community TD/26.07.02_Опрос метрики и подготовка ретроспективы/Summary.md",
@@ -224,7 +227,7 @@
     "TeamDriver/Чек-лист ухода из бара/F14BF96D-DB17-48CC-BB7C-12C78EB13D4F.jpeg",
     "TeamDriver/ОС от команды.md",
     "TeamDriver/Пост о завершении проекта на блог/Xml по проекту 22377 ФР-трескается защитное стекло ИК подсветки.md",
-    "TeamDriver/Разработка чек-листа вовлеченности сотрудника.md",
+    "TeamDriver/Проект вовлеченность сотрудников/Разработка чек-листа вовлеченности сотрудника.md",
     "TeamDriver/Пост о завершении проекта на блог/Шаблон статьи о завершённом проекте.md",
     "TeamDriver/Пост о завершении проекта на блог/Проект 22377 Трескается защитное стекло ИК подсветки ФР.md",
     "TeamDriver/Пост о завершении проекта на блог/Посты с блога.md",
@@ -240,12 +243,9 @@
     "TeamDriver/Teammates/Игорь/!Профиль взаимодействия сотрудника.md",
     "TeamDriver/Community TD/26.06.25_Анализ ОС от команды/Full transcript.md",
     "TeamDriver/Community TD/26.06.25_Анализ ОС от команды",
-    "TeamDriver/Community Agile/26.06.18_Ежемесячный отчет/Summary.md",
-    "TeamDriver/Обучение фреймворку/ОС по обучению.md",
     "TeamDriver/Community Agile/26.06.18_Ежемесячный отчет/Сводка_по_доске_проектов_за_месяц.pdf",
     "TeamDriver/Community Agile/26.06.18_Ежемесячный отчет",
     "TeamDriver/Обучение фреймворку/Обучение Ч2.pdf",
-    "TeamDriver/Обучение фреймворку/Обучение Ч1.pdf",
     "TeamDriver/Retrospective/26.05.29_Проблемы с ГОЗ/IMG_1363.jpeg",
     "TeamDriver/Retrospective/26.05.15_Про синхро-встречу с ОВ/15.05.26_Retro_RedTeam.jpg",
     "TeamDriver/DevRel/Открытие сезона 2026/Афиша_Открытие сезона 26'.png"
