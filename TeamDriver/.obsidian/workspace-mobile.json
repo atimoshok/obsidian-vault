@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retrospective/26.07.24_Ретра ГИС/Транскрипция.md",
+                "file": "Community TD/26.07.30_методология ИПР/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Транскрипция"
+              "title": "Summary"
             }
           }
         ],
@@ -255,8 +255,10 @@
   },
   "active": "dcdfb1d325ee4e41",
   "lastOpenFiles": [
-    "Community Agile/26.07.23_Груминг и оценка бэклога/Фото доски.md",
     "Retrospective/26.07.24_Ретра ГИС/Транскрипция.md",
+    "Community TD/26.07.30_методология ИПР/Summary.md",
+    "Community TD/26.07.30_методология ИПР",
+    "Community Agile/26.07.23_Груминг и оценка бэклога/Фото доски.md",
     "Retrospective/26.07.24_Ретра ГИС",
     "IMG_1777.jpeg",
     "Community Agile/26.07.23_Груминг и оценка бэклога/Summary.md",
@@ -288,13 +290,11 @@
     "Чек-лист ухода из бара/Чек-лист ухода из бара.md",
     "Чек-лист ухода из бара/F14BF96D-DB17-48CC-BB7C-12C78EB13D4F.jpeg",
     "Чек-лист ухода из бара",
-    "Retrospective/26.07.10_Командные договорённости/Формирование командных договорённостей.md",
     "Retrospective/26.07.10_Командные договорённости",
     "F14BF96D-DB17-48CC-BB7C-12C78EB13D4F.jpeg",
     "Чеклист ухода из бара.heic",
     "Community TD/26.06.18_Подготовка обучения фреймворку",
     "Community TD/25.06.26_Анализ ОС от команды",
-    "Community TD/25.06.26_ОС ПО ИС (2 месяца)",
     "Retrospective/29.05.26_Проблемы с ГОЗ/IMG_1363.jpeg",
     "Retrospective/29.05.26_/IMG_1363.jpeg"
   ]
