@@ -11,10 +11,14 @@
             "id": "03a85de7c27a51f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TeamDriver/Community TD/26.08.13_Метрики/Summary.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Summary"
             }
           }
         ]
@@ -189,8 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "03a85de7c27a51f8",
   "lastOpenFiles": [
+    "TeamDriver/Community TD/26.08.13_Метрики/Summary.md",
+    "TeamDriver/Community TD/26.08.13_Метрики/Full transcript.md",
+    "TeamDriver/Community TD/26.08.13_Метрики",
+    "Pasted image 20260722104728.png",
     "Pasted image 20260722104724.png",
     "Pasted image 20260722104720.png",
     "Pasted image 20260722104705.png",
@@ -200,7 +208,6 @@
     "Pasted image 20260722104507.png",
     "Pasted image 20260722104456.png",
     "Pasted image 20260722104449.png",
-    "TeamDriver/IMG_1777.jpeg",
     "TeamDriver/Проект вовлеченность сотрудников/Разработка чек-листа вовлеченности сотрудника.md",
     "TeamDriver/Community TD/26.08.06_Подготовка к ретроспективе по метрикам/Summary.md",
     "TeamDriver/Community TD/26.07.30_методология ИПР/Summary.md",
@@ -216,7 +223,6 @@
     "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога/Summary.md",
     "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога",
     "TeamDriver/Чек-лист ухода из бара/Чек-лист ухода из бара.md",
-    "TeamDriver/Чек-лист ухода из бара/Чек-лист ухода из бара.png",
     "TeamDriver/Проект вовлеченность сотрудников/Описание проекта.md",
     "TeamDriver/Пост о завершении проекта на блог/22377 Финальный пост.md",
     "TeamDriver/Пост о завершении проекта на блог/Успешный режим отжига для снятия остаточных напряжений ИК стекол ФР.md",
@@ -234,8 +240,6 @@
     "TeamDriver/Community TD/26.07.02_Опрос метрики и подготовка ретроспективы/Транскрипция опроса.md",
     "TeamDriver/Community TD/26.07.02_Опрос метрики и подготовка ретроспективы/Опрос метрики.md",
     "TeamDriver/Инфа для синхрона с Борисовым.md",
-    "TeamDriver/Community TD/26.07.02_Опрос метрики и подготовка ретроспективы",
-    "TeamDriver/Retrospective/26.07.10_Командные договорённости/Формирование командных договорённостей.md",
-    "TeamDriver/ОС от команды.md"
+    "TeamDriver/Retrospective/26.07.10_Командные договорённости/Формирование командных договорённостей.md"
   ]
 }
