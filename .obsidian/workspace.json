@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Community TD/26.08.27_Цели спринта/Summary.md",
+                "file": "TeamDriver/Community TD/26.08.27_Цели спринта/Full transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Full transcript"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "03a85de7c27a51f8",
   "lastOpenFiles": [
-    "TeamDriver/Community TD/26.08.27_Цели спринта/Full transcript.md",
     "TeamDriver/Community TD/26.08.27_Цели спринта/Summary.md",
+    "TeamDriver/Community TD/26.08.27_Цели спринта/Промпт для ГигаЧат.md",
+    "TeamDriver/Community TD/26.08.27_Цели спринта/27.08_Community TD_Цели спринта.m4a",
+    "TeamDriver/Community TD/26.08.27_Цели спринта/Full transcript.md",
     "TeamDriver/Retrospective/26.08.21_Цели спринта/Summary.md",
     "TeamDriver/Community TD/26.08.27_Цели спринта",
     "TeamDriver/Community TD/26.08.20_Подготовка ретроспективы по целям спринта/Summary.md",
@@ -230,7 +232,6 @@
     "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога/Фото доски.md",
     "TeamDriver/~MG_1777.tmp",
     "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога/Summary.md",
-    "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога",
     "TeamDriver/Чек-лист ухода из бара/Чек-лист ухода из бара.md",
     "TeamDriver/Проект вовлеченность сотрудников/Описание проекта.md",
     "TeamDriver/Пост о завершении проекта на блог/22377 Финальный пост.md",
@@ -238,8 +239,6 @@
     "TeamDriver/Пост о завершении проекта на блог/22377 Пост на блог.md",
     "TeamDriver/Пост о завершении проекта на блог/Результаты экспериментов стекол.md",
     "TeamDriver/Проект вовлеченность сотрудников/Диагностическая модель вовлечённости сотрудников v2.0.md",
-    "TeamDriver/Retrospective/26.07.10_Командные договорённости/Транскрипция.md",
-    "TeamDriver/Community TD/26.07.02_Опрос метрики и подготовка ретроспективы/На Wiki.md",
-    "TeamDriver/Обучение фреймворку/09.07.26_Транскрипция обучения (новое 1).md"
+    "TeamDriver/Retrospective/26.07.10_Командные договорённости/Транскрипция.md"
   ]
 }
