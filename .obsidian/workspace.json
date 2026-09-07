@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Community TD/26.08.27_Цели спринта/Full transcript.md",
+                "file": "TeamDriver/Community TD/26.09.03_Сценарий ретро про DoR/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full transcript"
+              "title": "Summary"
             }
           }
         ]
@@ -193,12 +193,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03a85de7c27a51f8",
+  "active": "fff7c5e7222b5489",
   "lastOpenFiles": [
+    "TeamDriver/Community TD/26.09.03_Сценарий ретро про DoR/DoR.docx",
     "TeamDriver/Community TD/26.08.27_Цели спринта/Summary.md",
+    "TeamDriver/Community TD/26.09.03_Сценарий ретро про DoR/Summary.md",
+    "TeamDriver/Community TD/26.09.03_Сценарий ретро про DoR",
+    "TeamDriver/Community Agile/26.09.04_Релиз-кандидат с Фатеевым/03.09_Community Agile_Релиз-ноты с Фатеевым.m4a",
+    "TeamDriver/Community Agile/26.09.04_Релиз-кандидат с Фатеевым",
+    "TeamDriver/Community TD/26.08.27_Цели спринта/Full transcript.md",
     "TeamDriver/Community TD/26.08.27_Цели спринта/Промпт для ГигаЧат.md",
     "TeamDriver/Community TD/26.08.27_Цели спринта/27.08_Community TD_Цели спринта.m4a",
-    "TeamDriver/Community TD/26.08.27_Цели спринта/Full transcript.md",
     "TeamDriver/Retrospective/26.08.21_Цели спринта/Summary.md",
     "TeamDriver/Community TD/26.08.27_Цели спринта",
     "TeamDriver/Community TD/26.08.20_Подготовка ретроспективы по целям спринта/Summary.md",
@@ -225,12 +230,9 @@
     "TeamDriver/Community TD/26.08.06_Подготовка к ретроспективе по метрикам",
     "TeamDriver/Retrospective/Оценка сложности задач",
     "TeamDriver/Проект вовлеченность сотрудников/Чек-лист первичной диагностики вовлечённости сотрудника v1.1.md",
-    "TeamDriver/Community TD/26.07.30_методология ИПР",
     "TeamDriver/Retrospective/26.07.24_Ретра ГИС/Транскрипция.md",
-    "TeamDriver/Retrospective/26.07.24_Ретра ГИС",
     "TeamDriver/Проект вовлеченность сотрудников/Чек-лист первичной диагностики вовлечённости сотрудника v1.0.md",
     "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога/Фото доски.md",
-    "TeamDriver/~MG_1777.tmp",
     "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога/Summary.md",
     "TeamDriver/Чек-лист ухода из бара/Чек-лист ухода из бара.md",
     "TeamDriver/Проект вовлеченность сотрудников/Описание проекта.md",
@@ -238,7 +240,6 @@
     "TeamDriver/Пост о завершении проекта на блог/Успешный режим отжига для снятия остаточных напряжений ИК стекол ФР.md",
     "TeamDriver/Пост о завершении проекта на блог/22377 Пост на блог.md",
     "TeamDriver/Пост о завершении проекта на блог/Результаты экспериментов стекол.md",
-    "TeamDriver/Проект вовлеченность сотрудников/Диагностическая модель вовлечённости сотрудников v2.0.md",
-    "TeamDriver/Retrospective/26.07.10_Командные договорённости/Транскрипция.md"
+    "TeamDriver/Проект вовлеченность сотрудников/Диагностическая модель вовлечённости сотрудников v2.0.md"
   ]
 }
