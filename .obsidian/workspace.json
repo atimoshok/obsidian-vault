@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "58cf98bd3723e20c",
+            "id": "0b63ea990dfedc59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Словарь терминов для ИИ.md",
+                "file": "TeamDriver/Community TD/26.09.24_Метрики_вопросы/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Словарь терминов для ИИ"
+              "title": "Summary"
             }
           }
         ],
@@ -208,25 +208,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58cf98bd3723e20c",
+  "active": "0b63ea990dfedc59",
   "lastOpenFiles": [
-    "Pasted image 20260922112048.png",
-    "TeamDriver/Словарь терминов для ИИ.md",
+    "TeamDriver/Meetengis TD/26.09.23_ИПР/Summary.md",
+    "TeamDriver/Community TD/26.09.24_Метрики_вопросы/Summary.md",
+    "TeamDriver/Meetengis TD/Meetengis TD - Ярлык.lnk",
+    "TeamDriver/Meetengis TD/26.09.24_Элементы бэклога с Борисовым/Summary.md",
+    "TeamDriver/Словарь терминов для ИИ 1.md",
     "TeamDriver/Retrospective/26.09.21_Метрики от Борисова/Summary.md",
+    "TeamDriver/Meetengis TD/26.09.24_Элементы бэклога с Борисовым/24.09_Про элементы бэклога с Борисовым.m4a",
+    "TeamDriver/Meetengis TD/26.09.24_Элементы бэклога с Борисовым",
+    "TeamDriver/Meetengis TD/26.09.23_ИПР/23.09_Обсуждение ИПР.m4a",
+    "TeamDriver/Meetengis TD/26.09.23_ИПР",
+    "TeamDriver/Community TD/26.09.24_Метрики_вопросы/24.09_Community TD_метрики.m4a",
+    "TeamDriver/Community TD/26.09.24_Метрики_вопросы",
+    "conflict-files-obsidian-git.md",
+    "TeamDriver/Словарь терминов для ИИ.md",
+    "Pasted image 20260922112048.png",
     "TeamDriver/Retrospective/26.09.11_Сереневая_РС ИК/11.09_Ретро Сиреневая_РС ИК.m4a",
     "TeamDriver/Community TD/26.09.10_Метрики человеко-часы/Саммари_с контекстом.md",
     "TeamDriver/Retrospective/26.09.21_Метрики от Борисова/18.09_Ретро с Борисовым.m4a",
     "TeamDriver/Retrospective/26.09.21_Метрики от Борисова/summary_Отчёт_по_логированию_времени.md.markdown",
-    "TeamDriver/Retrospective/26.09.21_Метрики от Борисова",
-    "TeamDriver/Retrospective/26.09.11_Сереневая_РС ИК",
     "TeamDriver/Community TD/26.09.10_Метрики человеко-часы/Саммари_сегодняшняя_встреча_метрики.md",
-    "TeamDriver/Community TD/26.09.10_Метрики человеко-часы/10.09_Community TD_Метрики человеко-часы.m4a",
     "TeamDriver/Meetengis TD/26.09.10_Метрики/summary_Встреча_TD_про_метрики.md",
-    "TeamDriver/Community TD/26.09.10_Метрики человеко-часы",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/Summary.md",
-    "TeamDriver/Meetengis TD/26.09.10_Метрики/10.09_Встреча TD_про метрики.m4a",
-    "TeamDriver/Meetengis TD/26.09.10_Метрики",
-    "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2784.jpg.~tmp",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2784.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2786.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2785.jpg",
@@ -250,10 +255,6 @@
     "TeamDriver/Community TD/26.08.06_Подготовка к ретроспективе по метрикам/Summary.md",
     "TeamDriver/Community TD/26.07.30_методология ИПР/Summary.md",
     "TeamDriver/Проект вовлеченность сотрудников/Чек-лист первичной диагностики вовлечённости сотрудника v1.1.md",
-    "TeamDriver/Retrospective/26.07.24_Ретра ГИС/Транскрипция.md",
-    "TeamDriver/Проект вовлеченность сотрудников/Чек-лист первичной диагностики вовлечённости сотрудника v1.0.md",
-    "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога/Фото доски.md",
-    "TeamDriver/Community Agile/26.07.23_Груминг и оценка бэклога/Summary.md",
-    "TeamDriver/Чек-лист ухода из бара/Чек-лист ухода из бара.md"
+    "TeamDriver/Retrospective/26.07.24_Ретра ГИС/Транскрипция.md"
   ]
 }
