@@ -4,109 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0c65020679448556",
+        "id": "67908daae9b1c8f3",
         "type": "tabs",
         "children": [
           {
-            "id": "99cfe619c7251441",
+            "id": "d4dbb39d94d8a76e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teammates/Алина/ОС по логированию времени.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ОС по логированию времени"
-            }
-          },
-          {
-            "id": "f85f426a01369571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teammates/Алина/ОС по логированию времени.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ОС по логированию времени"
-            }
-          },
-          {
-            "id": "c2aef1c676450977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teammates/Алина/09.06.26_ОС по логированию времени/Рефлексия после разговора.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Рефлексия после разговора"
-            }
-          },
-          {
-            "id": "0c4dfe1f4992137f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teammates/Алина/ОС по логированию времени.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ОС по логированию времени"
-            }
-          },
-          {
-            "id": "527454f0dd5dc50e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSM TD/2026/DSM — 2026-06-10 (про обучение фреймворку).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DSM — 2026-06-10 (про обучение фреймворку)"
-            }
-          },
-          {
-            "id": "2f69d443189cd4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Community TD/26.06.18_Подготовка обучения фреймворку/Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summary"
-            }
-          },
-          {
-            "id": "dcdfb1d325ee4e41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИПР/Задачи.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,24 +164,24 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "541b851cd1a5c665",
+  "active": "d4dbb39d94d8a76e",
   "lastOpenFiles": [
+    "Community TD/26.06.18_Подготовка обучения фреймворку/Summary.md",
+    "ИПР/Задачи.md",
+    "Retrospective/26.19.16_По итогам кейса РС-ИК/16.10_По итогам кейса РС-ИК_2.m4a",
+    "Retrospective/26.19.16_По итогам кейса РС-ИК/16.10_По итогам кейса РС-ИК_3.m4a",
+    "Retrospective/26.19.16_По итогам кейса РС-ИК/16.10_По итогам кейса РС-ИК_1.m4a",
+    "Retrospective/26.19.16_По итогам кейса РС-ИК",
     "Community TD/26.10.01_Метрики с Борисовым/01.10_Community TD_метрики с Борисовым.m4a",
     "Community TD/26.10.01_Метрики с Борисовым",
     "Meetengis TD/26.09.10_Метрики/10.09_Встреча TD_про метрики.m4a",
-    "ИПР/Задачи.md",
     "ИПР",
     "Meetengis TD/26.09.23_ИПР/23.09_Обсуждение ИПР.m4a",
     "Meetengis TD/26.09.24_Элементы бэклога с Борисовым/24.09_Про элементы бэклога с Борисовым.m4a",
-    "Community TD/26.09.24_Метрики_вопросы/24.09_Community TD_метрики.m4a",
-    "Meetengis TD/26.09.24_Элементы бэклога с Борисовым",
     "Community TD/26.05.21_1_Работа с Игорем Стрекаловским.md",
-    "Meetengis TD/26.09.23_ИПР",
     "Словарь терминов для ИИ 1.md",
-    "Community TD/26.09.24_Метрики_вопросы",
     "Словарь терминов для ИИ.md",
     "Community TD/26.08.27_Цели спринта/Full transcript.md",
-    "Retrospective/26.09.21_Метрики от Борисова/summary_Отчёт_по_логированию_времени.md.markdown",
     "Retrospective/26.08.21_Цели спринта/Summary.md",
     "Retrospective/26.08.21_Цели спринта/Full transcript.md",
     "Community TD/26.08.20_Подготовка ретроспективы по целям спринта/Full transcript.md",
