@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/DevRel/НГ 2026/Summary_Обсуждение новогоднего корпоратива_2.md",
+                "file": "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary_Обсуждение новогоднего корпоратива_2"
+              "title": "Summary"
             }
           }
         ]
@@ -193,24 +193,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52ef0efba1596f51",
+  "active": "fff7c5e7222b5489",
   "lastOpenFiles": [
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/26.10.30_Сценарий_ретроспективы_тестирование_при_загрузке_тестировщика_финальный.docx",
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/30.10_Ретроспектива_Загрузка тестировщика.m4a",
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/Summary.md",
+    "TeamDriver/DevRel/НГ 2026/Summary_Обсуждение новогоднего корпоратива_2.md",
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику",
     "TeamDriver/DevRel/НГ 2026/Summary_Обсуждение новогоднего корпоратива_1.md",
     "TeamDriver/Community Agile/26.10.22_ИИагенты/Summary.md",
-    "TeamDriver/DevRel/НГ 2026/Summary_Обсуждение новогоднего корпоратива_2.md",
     "TeamDriver/Community TD/26.10.22_Текущие задачи/Summary.md",
     "TeamDriver/Community TD/26.10.22_Текущие задачи/22.10_Community TD_текущие задачи.m4a",
-    "TeamDriver/Retrospective/26.19.16_По итогам кейса РС-ИК/Summary.md",
-    "TeamDriver/Retrospective/26.19.16_По итогам кейса РС-ИК/23.10_Обсуждение НГ корпоратива.m4a",
+    "TeamDriver/Retrospective/26.10.16_По итогам кейса РС-ИК/Summary.md",
+    "TeamDriver/Retrospective/26.10.16_По итогам кейса РС-ИК/23.10_Обсуждение НГ корпоратива.m4a",
     "TeamDriver/DevRel/НГ 2026",
     "TeamDriver/Community TD/26.10.22_Текущие задачи",
     "TeamDriver/Community Agile/26.10.22_ИИагенты/22.10_Community Agile_ИИ-агенты.m4a",
     "TeamDriver/Community Agile/26.10.22_ИИагенты",
     "TeamDriver/Community TD/26.10.15_Возврат группы к теме и обсуждение проблем-решений/Summary.md",
-    "TeamDriver/Retrospective/26.19.16_По итогам кейса РС-ИК/16.10_По итогам кейса РС-ИК_3.m4a",
-    "TeamDriver/Retrospective/26.19.16_По итогам кейса РС-ИК/16.10_По итогам кейса РС-ИК_2.m4a",
-    "TeamDriver/Retrospective/26.19.16_По итогам кейса РС-ИК/16.10_По итогам кейса РС-ИК_1.m4a",
-    "TeamDriver/Retrospective/26.19.16_По итогам кейса РС-ИК",
+    "TeamDriver/Retrospective/26.10.16_По итогам кейса РС-ИК/16.10_По итогам кейса РС-ИК_3.m4a",
     "TeamDriver/Community TD/26.10.01_Метрики с Борисовым/Summary.md",
     "TeamDriver/ОС от команды по итогам ИС.md",
     "TeamDriver/ИПР/Задачи.md",
@@ -234,8 +235,6 @@
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2784.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2786.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2785.jpg",
-    "TeamDriver/Community TD/26.09.03_Сценарий ретро про DoR/Summary.md",
-    "TeamDriver/Community TD/26.08.27_Цели спринта/Summary.md",
     "Pasted image 20260722104728.png",
     "Pasted image 20260722104724.png",
     "Pasted image 20260722104720.png",
