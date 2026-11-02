@@ -11,14 +11,12 @@
             "id": "52ef0efba1596f51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4268.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Summary"
+              "icon": "lucide-image",
+              "title": "IMG_4268"
             }
           }
         ]
@@ -193,11 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff7c5e7222b5489",
+  "active": "52ef0efba1596f51",
   "lastOpenFiles": [
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4267.jpg",
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4266.jpg",
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/Summary.md",
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4268.jpg",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/26.10.30_Сценарий_ретроспективы_тестирование_при_загрузке_тестировщика_финальный.docx",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/30.10_Ретроспектива_Загрузка тестировщика.m4a",
-    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/Summary.md",
     "TeamDriver/DevRel/НГ 2026/Summary_Обсуждение новогоднего корпоратива_2.md",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику",
     "TeamDriver/DevRel/НГ 2026/Summary_Обсуждение новогоднего корпоратива_1.md",
@@ -236,9 +237,6 @@
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2786.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2785.jpg",
     "Pasted image 20260722104728.png",
-    "Pasted image 20260722104724.png",
-    "Pasted image 20260722104720.png",
-    "Pasted image 20260722104705.png",
-    "Pasted image 20260722104701.png"
+    "Pasted image 20260722104724.png"
   ]
 }
