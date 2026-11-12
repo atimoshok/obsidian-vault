@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/Summary.md",
+                "file": "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 233.5030517578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80092dcbc227a0b4",
+  "active": "52ef0efba1596f51",
   "lastOpenFiles": [
+    "TeamDriver/ИПР/26.11.10_Приёмы для удержания повестки.md",
+    "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы/Summary.md",
+    "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы/summary_5_почему_и_коучинговые_вопросы.md.markdown",
+    "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы/12.11_Community TD_5 почему_Коучинговые вопросы.m4a",
+    "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы",
+    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/Summary.md",
+    "TeamDriver/Community TD/26.10.15_Возврат группы к теме и обсуждение проблем-решений/Full transcript.md",
     "TeamDriver/Опрос о проверке технологий/Сиреневая/09.11_Вопросы по технологиям_Семушев.m4a",
     "TeamDriver/Опрос о проверке технологий/Сиреневая/09.11_Вопросы по технологиям_Реброва.m4a",
     "TeamDriver/ИПР/05.11_Синхрон по ИПР_1.m4a",
@@ -203,13 +210,8 @@
     "TeamDriver/Опрос о проверке технологий/Сиреневая",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/30.10_Ретроспектива_Загрузка тестировщика.m4a",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4268.jpg",
-    "TeamDriver/Опрос о проверке технологий/ВИП/Опросник ВИП по технологиям.xlsx",
-    "TeamDriver/Опрос о проверке технологий/Красная/Опросник Красной команды по технологиям и синхре с ОВ.xlsx",
-    "TeamDriver/Опрос о проверке технологий/Красная/28.10_Вопросы по технологиям_Шамов.m4a",
-    "TeamDriver/Опрос о проверке технологий/Красная/28.10_Вопросы по технологиям_Стрекаловский.m4a",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4267.jpg",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4266.jpg",
-    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/Summary.md",
     "TeamDriver/DevRel/НГ 2026/Summary_Обсуждение новогоднего корпоратива_2.md",
     "TeamDriver/DevRel/НГ 2026/Summary_Обсуждение новогоднего корпоратива_1.md",
     "TeamDriver/Community Agile/26.10.22_ИИагенты/Summary.md",
@@ -234,8 +236,6 @@
     "Pasted image 20260922112048.png",
     "TeamDriver/Community TD/26.09.10_Метрики человеко-часы/Саммари_с контекстом.md",
     "TeamDriver/Community TD/26.09.10_Метрики человеко-часы/Саммари_сегодняшняя_встреча_метрики.md",
-    "TeamDriver/Meetengis TD/26.09.10_Метрики/summary_Встреча_TD_про_метрики.md",
-    "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/Summary.md",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2784.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2786.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2785.jpg",
