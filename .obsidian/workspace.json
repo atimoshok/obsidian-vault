@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы/Summary.md",
+                "file": "TeamDriver/Retrospective/26.11.18_Оценка в человеко-днях/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,8 +195,12 @@
   },
   "active": "52ef0efba1596f51",
   "lastOpenFiles": [
-    "TeamDriver/ИПР/26.11.10_Приёмы для удержания повестки.md",
+    "TeamDriver/Retrospective/26.11.18_Оценка в человеко-днях/Флипчарт.md",
+    "TeamDriver/Retrospective/26.11.18_Оценка в человеко-днях/Summary.md",
     "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы/Summary.md",
+    "TeamDriver/Retrospective/26.11.18_Оценка в человеко-днях",
+    "TeamDriver/IMG_4360.jpeg",
+    "TeamDriver/ИПР/26.11.10_Приёмы для удержания повестки.md",
     "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы/summary_5_почему_и_коучинговые_вопросы.md.markdown",
     "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы/12.11_Community TD_5 почему_Коучинговые вопросы.m4a",
     "TeamDriver/Community TD/26.11.12_Метод 5 почему_Коучинговые вопросы",
@@ -208,7 +212,6 @@
     "TeamDriver/Опрос о проверке технологий/Сиреневая/Опросник Сиреневой по технологиям.xlsx",
     "TeamDriver/Опрос о проверке технологий/Сиреневая/03.11_Вопросы по технологиям_Хорохордин.m4a",
     "TeamDriver/Опрос о проверке технологий/Сиреневая",
-    "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/30.10_Ретроспектива_Загрузка тестировщика.m4a",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4268.jpg",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4267.jpg",
     "TeamDriver/Retrospective/26.10.30_Помощь тестировщику/IMG_4266.jpg",
@@ -234,12 +237,9 @@
     "conflict-files-obsidian-git.md",
     "TeamDriver/Словарь терминов для ИИ.md",
     "Pasted image 20260922112048.png",
-    "TeamDriver/Community TD/26.09.10_Метрики человеко-часы/Саммари_с контекстом.md",
-    "TeamDriver/Community TD/26.09.10_Метрики человеко-часы/Саммари_сегодняшняя_встреча_метрики.md",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2784.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2786.jpg",
     "TeamDriver/Retrospective/26.09.04_Критерии DoR_1/IMG_2785.jpg",
-    "Pasted image 20260722104728.png",
-    "Pasted image 20260722104724.png"
+    "Pasted image 20260722104728.png"
   ]
 }
